@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sam Smith</h1>
-<h3 align="center">Hi</h3>
+<h1 align="center">Hi, I'm Sam Smith</h1>
+<h3 align="center">I first coded during my undergradute, i wasn't very good and i didnt like it either. Fast forward 3 years and during my 2nd year on the Lonza Graduate Scheme i had gained a new interest in coding through work so began teaching myself outside of work. I used LeetCode to practise SQL and Codecademy to practise Python. Coding is now one of my passions, its problem-solving in its rawest form, and i've combined this with another passions of mine, football, and I'm in the process of creating a Machine Learning model that can predict the outcomes of my football matches before they've even happened.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whatsdarkmode&label=Profile%20views&color=0e75b6&style=flat" alt="whatsdarkmode" /> </p>
 
@@ -10,5 +10,3 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=whatsdarkmode&show_icons=true&locale=en&layout=compact" alt="whatsdarkmode" /></p>
